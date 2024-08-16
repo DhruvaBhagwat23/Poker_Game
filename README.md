@@ -1,4 +1,4 @@
-# Poker_Game
+# Terminal_Contained_Minigames
 Personal Projects: Interactive Poker Game
 
 Inspired by AP Computer Science A Blackjack Game Project. Cannot upload my Blackjack Project as it is connected to my school, but please feel free to contact me at dhruvab@berkeley.edu regarding motivation for these projects and programming paradigms. 
